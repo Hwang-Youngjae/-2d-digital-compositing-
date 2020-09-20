@@ -29,3 +29,5 @@ The alpha channel is used primarily in alpha blending and alpha compositing.
 ![Figure2](https://user-images.githubusercontent.com/71237760/93716869-1052d780-fbad-11ea-930e-6e0326addb04.jpg)
 
 
+![RGBA_comp](https://user-images.githubusercontent.com/71237760/93716906-4d1ece80-fbad-11ea-8d89-f7ef9df2a495.png)
+
