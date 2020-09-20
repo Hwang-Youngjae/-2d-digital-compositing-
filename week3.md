@@ -1,9 +1,11 @@
 What is Digital Compositing?
 ========================
 Digital compositing is the process of digitally assembling multiple images to make a final image, typically for print, motion pictures or screen display. It is the digital analogue of optical film compositing.
+Mathematics
+-----------
+The basic operation used in digital compositing is known as 'alpha blending', where an opacity value, 'α', is used to control the proportions of two input pixel values that end up a single output pixel.
 
-
-
+As a simple example, suppose two images of the same size are available and they are to be composited. The input images are referred to as the foreground image and the background image. Each image consists of the same number of pixels. Compositing is performed by mathematically combining information from the corresponding pixels from the two input images and recording the result in a third image, which is called the composited image.
 
 
 
