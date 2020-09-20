@@ -12,6 +12,9 @@ As a simple example, suppose two images of the same size are available and they 
 ![An-overview-of-the-video-compositing-process](https://user-images.githubusercontent.com/71237760/93716938-7ccdd680-fbad-11ea-9b13-9cb3e7d90d88.png)
 
 Matte Painting
+----------------
+![unnamed](https://user-images.githubusercontent.com/71237760/93717006-f1a11080-fbad-11ea-89af-0b88f1da668c.jpg)
+
 
 
 What is Alpha and Color(Digital Color)?
