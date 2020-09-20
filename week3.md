@@ -17,7 +17,7 @@ As a simple example, suppose two images of the same size are available and they 
 
 What is Alpha and Color(Digital Color)?
 ====================================
-What is Alpha?
+1. What is Alpha?
 -------------
 The alpha channel controls the transparency or opacity of a color. Its value can be represented as a real value, a percentage, or an integer: full transparency is 0.0, 0% or 0, whereas full opacity is 1.0, 100% or 255, respectively.
 
