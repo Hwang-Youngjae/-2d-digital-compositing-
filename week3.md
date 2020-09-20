@@ -9,6 +9,7 @@ The basic operation used in digital compositing is known as 'alpha blending', wh
 As a simple example, suppose two images of the same size are available and they are to be composited. The input images are referred to as the foreground image and the background image. Each image consists of the same number of pixels. Compositing is performed by mathematically combining information from the corresponding pixels from the two input images and recording the result in a third image, which is called the composited image.
 
 
+![An-overview-of-the-video-compositing-process](https://user-images.githubusercontent.com/71237760/93716938-7ccdd680-fbad-11ea-9b13-9cb3e7d90d88.png)
 
 
 
