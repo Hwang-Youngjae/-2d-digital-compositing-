@@ -24,4 +24,3 @@ The alpha channel controls the transparency or opacity of a color. Its value can
 When a color (source) is blended with another color (background), e.g., when an image is overlaid onto another image, the alpha value of the source color is used to determine the resulting color. If the alpha value is opaque, the source color overwrites the destination color; if transparent, the source color is invisible, allowing the background color to show through. If the value is in between, the resulting color has a varying degree of transparency/opacity, which creates a translucent effect.
 
 The alpha channel is used primarily in alpha blending and alpha compositing.
-![스크린샷(109)](https://user-images.githubusercontent.com/71237760/93716313-0e3b4980-fbaa-11ea-9c01-5db57460eebd.png)
