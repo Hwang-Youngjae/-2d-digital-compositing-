@@ -15,6 +15,11 @@ Matte Painting
 ----------------
 ![unnamed](https://user-images.githubusercontent.com/71237760/93717006-f1a11080-fbad-11ea-89af-0b88f1da668c.jpg)
 
+Chroma Key
+-----------
+
+![greenscreen_studio2](https://user-images.githubusercontent.com/71237760/93717063-447ac800-fbae-11ea-85aa-33bf9213509a.jpg)
+
 
 
 What is Alpha and Color(Digital Color)?
