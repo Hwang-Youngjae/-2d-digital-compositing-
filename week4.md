@@ -46,7 +46,7 @@ Gamma / Linear workflow
 
 모니터가 이미지를 표현하기 위해서는 전압이 공급(input)되고, 모니터는 이를 빛의 정도로 환산해서 이미지(output)로 표현한다. 하지만 컴퓨터 모니터는 우리의 눈이 받아들일 수 있는 빛의 양을 표현할 방법이 없기 때문에 컴퓨터는 눈에 보이는 것과 유사하게 표시한다. 이를 color space라고 부른다.
 
-
+![img (2)](https://user-images.githubusercontent.com/71237760/94346397-65886080-0067-11eb-8ab9-6bb9aa2a531d.jpg)
 
 모니터들이 가장 많이 사용하는 color space는 sRGB(non-linear, 8bit, gamma 2.2) 안에서 이뤄진다. sRGB안에서는 gamma correction이라는 것이 작용하는데, 이는 우리가 본 luminance값을 비디오나 사진에서 암호화, 해독하던 방식을 말한다.
 
