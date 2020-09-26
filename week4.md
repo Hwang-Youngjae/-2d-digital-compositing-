@@ -34,4 +34,8 @@ CIE는 국제 조명 위원회(프랑스어: Commission internationale de l'écl
 
 여기서 '균등 색 공간'이란 '불균등 색 공간'의 대립 개념이며, 불균등 공간에서는 색상들을 나타내는 선, 채도들을 나타내는 선들이 일정하지 않고 불규칙하게 배열되기 때문에 색 공간에서 두 점의 거리 즉, 색의 차이를 계산하면 정확하지 않다.
 ![Which-Color-Space-to-Use-When-1068x500](https://user-images.githubusercontent.com/71237760/94346160-c44cda80-0065-11eb-89e7-8d7ab03f0f53.jpeg)
+출처:Wikipedia
+
+Gamma / Linear workflow
+==========================
 
