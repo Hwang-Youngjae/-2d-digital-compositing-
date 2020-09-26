@@ -54,3 +54,7 @@ Gamma / Linear workflow
 
  ![img (1)](https://user-images.githubusercontent.com/71237760/94346421-7fc23e80-0067-11eb-9144-cc35973a3460.jpg)
 출처:https://frauniemand.tistory.com/8
+
+What is LUT? Color LookUpTable ?
+==================================
+
