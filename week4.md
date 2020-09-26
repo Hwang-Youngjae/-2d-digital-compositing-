@@ -24,6 +24,8 @@ HSV 색 공간
 ---------------
 HSV 색 공간은 색상(Hue), 채도(Saturation), 명도(value)를 기준으로 색을 구성하는 방식이다. 감산 혼합이나 가산 혼합보다 색상의 지정이 직관적[2]이기 때문에 시각 예술에서 자주 쓰인다.
 
+![200px-HSV_cone](https://user-images.githubusercontent.com/71237760/94346144-ae3f1a00-0065-11eb-931e-5619bd1c7d7c.jpg)
+
 CIE 색 공간
 --------------
 CIE는 국제 조명 위원회(프랑스어: Commission internationale de l'éclairage)를 프랑스어식으로 표기한 준말이며, CIE 색 공간이란 컬러 매칭 실험을 통하여 생성된 R, G, B 데이터를 바탕으로 만들어진 CIEXYZ 색 공간과 CIELAB 색 공간, 그리고 CIELUV 색 공간이 대표적인 색 공간이다.
