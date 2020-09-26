@@ -57,4 +57,9 @@ Gamma / Linear workflow
 
 What is LUT? Color LookUpTable ?
 ==================================
+순람표(順覽表) 또는 룩업 테이블(lookup table)은 컴퓨터 과학에서 일반적으로 배열이나 연관 배열로 된 데이터 구조로, 런타임 계산을 더 단순한 배열 색인화 과정으로 대체하는 데 자주 쓰인다. 처리 시간의 절약은 중요할 수 있는데, 이는 메모리로부터 값을 받아오는 것이 더 일이 많이 드는 계산이나 입출력 기능을 거치는 것보다 더 빠르기 때문이다.[1] 테이블들은 정적인 프로그램 저장소에 미리 계산되어 저장하거나, 프로그램 초기화 단계(메모이제이션)의 일부로 계산(프리페치)할 수도 있다. 룩업 테이블은 배열에 위치한 일련의 (올바르거나 올바르지 않은) 값 항목들을 일치시키면서 입력값이 유효한지 확인하는 데 널리 쓰이기도 하며, 프로그래밍 언어에서는 포인터 함수를 포함(또는 레이블로 오프셋)하여 일치하는 입력을 처리할 수 있다.
 
+![How-ColorLUTs-work-in-8-bits-channel-color-spaces-a-concept-difference-between-a-1D](https://user-images.githubusercontent.com/71237760/94346510-09720c00-0068-11eb-9c6a-1e3a4481e645.png)
+
+What is Logspace and what is main difference with sRGB, why and when we use?
+===============================================================================
