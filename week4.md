@@ -40,7 +40,7 @@ Gamma / Linear workflow
 ==========================
 실제 세상의 빛은 linear로 작용, 우리가 보는 빛의 양은 광원들의 빛의 양을 합친 값이다. 즉, 실제 세상에서는 input이 output과 일정, 동등하다. 이를 linear라고 한다.
 
-
+![img](https://user-images.githubusercontent.com/71237760/94346335-f3b01700-0066-11eb-9edb-6fb8812cc8eb.jpg)
 
 하지만 모니터에서는 이와 다르게 아래 그래프처럼 표시한다.
 
