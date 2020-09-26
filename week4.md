@@ -52,4 +52,4 @@ Gamma / Linear workflow
 
 그래서 이를 다시 linear로 바로잡기 위해 의도적으로 수치값을 대입한다. 이 수치를 gamma라고 한다.
 
- 
+ ![img (1)](https://user-images.githubusercontent.com/71237760/94346421-7fc23e80-0067-11eb-9144-cc35973a3460.jpg)
