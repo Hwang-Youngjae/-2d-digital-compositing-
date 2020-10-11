@@ -36,3 +36,8 @@ Lines and Shapes
 ----------------
 
 ![ClZHLiKWQAAG8hR-800x450](https://user-images.githubusercontent.com/71237760/95669918-6faa7300-0bc0-11eb-86dc-444c49f1b46f.jpg)
+
+> 
+
+Patterns
+================
