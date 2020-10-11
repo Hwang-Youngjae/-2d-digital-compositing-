@@ -38,7 +38,7 @@ Lines and Shapes
 ![ClZHLiKWQAAG8hR-800x450](https://user-images.githubusercontent.com/71237760/95669918-6faa7300-0bc0-11eb-86dc-444c49f1b46f.jpg)
 
 > 
-
+***
 Patterns
 ================
 
@@ -57,14 +57,16 @@ Patterns
 
 
 
-
+***
 Depth
 ==========
 
 ![Rules-of-Shot-Composition-depth-of-field-1024x660-min](https://user-images.githubusercontent.com/71237760/95670286-1b08f700-0bc4-11eb-9fd3-470d0454822d.jpg)
 
+![스크린샷(163)](https://user-images.githubusercontent.com/71237760/95670313-74712600-0bc4-11eb-9db4-7d8b37cebb23.png)
 
-
+거리감과 심도를 통해 앞 인물과 뒤에 인물들에만 초점을 맞춰 집중시킨다.
+***
 
 Color
 ========
