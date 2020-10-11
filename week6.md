@@ -2,6 +2,9 @@ Composition
 =============
 Center Composition
 -------------------
+![Rules-of-Shot-Composition-Balance-and-Symmetry-Wes-min](https://user-images.githubusercontent.com/71237760/95669971-e8113400-0bc0-11eb-8946-124e98e6f90e.jpg)
+
+> 화면 중앙에 인물을 배치함으로써 인물의 성격, 분위기 또는 인물에게 집중을 시킬 수 있다.
 
 ![Rules-of-Shot-Composition-Symmetry-Kubrick-min](https://user-images.githubusercontent.com/71237760/95669950-d0d24680-0bc0-11eb-9f18-9d63db1a6da7.jpg)
 
@@ -27,7 +30,7 @@ Framing
 
 ![In-the-Mood-for-Love](https://user-images.githubusercontent.com/71237760/95669825-b51a7080-0bbf-11eb-83bd-c90b2cc9cb42.jpg)
 
-거울에 비추는 장면을 통해 배우에게 더욱 집중시킬 수 있다.
+> 거울에 비추는 장면을 통해 배우에게 더욱 집중시킬 수 있다.
 ***
 Lines and Shapes
 ----------------
