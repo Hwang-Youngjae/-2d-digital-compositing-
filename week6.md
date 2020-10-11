@@ -28,7 +28,7 @@ Framing
 ![In-the-Mood-for-Love](https://user-images.githubusercontent.com/71237760/95669825-b51a7080-0bbf-11eb-83bd-c90b2cc9cb42.jpg)
 
 거울에 비추는 장면을 통해 배우에게 더욱 집중시킬 수 있다.
-
+***
 Lines and Shapes
 ----------------
 
