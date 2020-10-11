@@ -61,6 +61,7 @@ Patterns
 Depth
 ==========
 
+![Rules-of-Shot-Composition-depth-of-field-1024x660-min](https://user-images.githubusercontent.com/71237760/95670286-1b08f700-0bc4-11eb-9fd3-470d0454822d.jpg)
 
 
 
