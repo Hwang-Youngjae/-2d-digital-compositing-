@@ -1,11 +1,13 @@
 Composition
 =============
+Center Composition
+-------------------
 
 
 
 
 
-
+***
 Rule of Thirds
 ---------------------
 ![Rule-of-Thirds-Thor-Hammer-StudioBinder](https://user-images.githubusercontent.com/71237760/95668895-c27e2d80-0bb4-11eb-8d4e-65dd86d67dc6.jpg)
@@ -19,3 +21,13 @@ Rule of Thirds
 ![thomas-ian-nicholas-film-still-with-lines-over-it-1024x431-s4ckbu](https://user-images.githubusercontent.com/71237760/95668859-48e63f80-0bb4-11eb-8d16-10f445fb1797.jpg)
 
 > 눈은 프레임 아래로 1/3 정도 내려간다.대부분의 '피플샷'에서 관심의 핵심은 눈을 통과하는 라인이다. 이 샷에서 눈은 프레임 아래쪽으로 약 1/3 정도 위치한다.
+***
+Framing
+---------
+
+
+
+
+***
+Lines and Shapes
+----------------
