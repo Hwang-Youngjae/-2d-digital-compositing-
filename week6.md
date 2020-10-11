@@ -26,8 +26,5 @@ Framing
 ---------
 
 
-
-
-***
 Lines and Shapes
 ----------------
