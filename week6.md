@@ -3,7 +3,7 @@ Composition
 Center Composition
 -------------------
 
-
+![Rules-of-Shot-Composition-Symmetry-Kubrick-min](https://user-images.githubusercontent.com/71237760/95669950-d0d24680-0bc0-11eb-9f18-9d63db1a6da7.jpg)
 
 
 
