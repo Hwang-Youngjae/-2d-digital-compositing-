@@ -37,23 +37,15 @@ Lines and Shapes
 
 ![ClZHLiKWQAAG8hR-800x450](https://user-images.githubusercontent.com/71237760/95669918-6faa7300-0bc0-11eb-86dc-444c49f1b46f.jpg)
 
-> 
+> 선과 모양을 통해 더욱 사물에 집중시킨다.
 ***
 Patterns
 ================
 
+![6](https://user-images.githubusercontent.com/71237760/95670421-6d96e300-0bc5-11eb-976b-f2ef6e54cc91.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
+> 영화 속 패턴들은 의미를 담고 있거나 배우들을 집중시켜주는 역할을 한다.
+>> 예를들어 올드보이 속 이 강렬한 패턴들은 이우진의 계확대로 설계한 지도를 뜻한다.
 
 
 
@@ -65,7 +57,7 @@ Depth
 
 ![스크린샷(163)](https://user-images.githubusercontent.com/71237760/95670313-74712600-0bc4-11eb-9db4-7d8b37cebb23.png)
 
-거리감과 심도를 통해 앞 인물과 뒤에 인물들에만 초점을 맞춰 집중시킨다.
+> 거리감과 심도를 통해 앞 인물과 뒤에 인물들에만 초점을 맞춰 집중시킨다.
 ***
 
 Color
