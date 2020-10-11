@@ -6,7 +6,7 @@ Composition
 
 
 
-What is Rule of Thirds?
+Rule of Thirds
 ---------------------
 ![Rule-of-Thirds-Thor-Hammer-StudioBinder](https://user-images.githubusercontent.com/71237760/95668895-c27e2d80-0bb4-11eb-8d4e-65dd86d67dc6.jpg)
 
