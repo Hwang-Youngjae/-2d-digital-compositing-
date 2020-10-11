@@ -62,4 +62,11 @@ Depth
 
 Color
 ========
-색은 장면의 분위기를 알려주며 긴장을 시키거나 집중을 시킨다.
+> 색은 장면의 분위기를 알려주며 긴장을 시키거나 집중을 시킨다.
+
+![How-to-Use-Color-in-Film-Example-of-Movie-Color-Palette-and-Schemes-Complementary-Orange-and-Teal-min-745x390 jpg optimal](https://user-images.githubusercontent.com/71237760/95671107-00d41680-0bce-11eb-8953-94f9072317cf.jpg)
+![How-to-Use-Color-in-Film-Example-of-Movie-Color-Palette-and-Schemes-Monochromatic-Grand-Budapest-Hotel-min-745x390 jpg optimal](https://user-images.githubusercontent.com/71237760/95671108-02054380-0bce-11eb-820b-f5b5315a8acb.jpg)
+![How-to-Use-Color-in-Film-Example-of-Movie-Color-Palette-and-Schemes-Monochromatic-Matrix1-745x390 jpg optimal](https://user-images.githubusercontent.com/71237760/95671109-029dda00-0bce-11eb-8f46-2b97cefcfe5e.jpg)
+![How-to-Use-Color-in-Film-Example-of-Movie-Color-Palette-and-Schemes-Triadic-Colors-A-Woman-Is-a-Woman-min-745x390 jpg optimal](https://user-images.githubusercontent.com/71237760/95671110-029dda00-0bce-11eb-854e-ed279c6e3973.jpg)
+***
+
