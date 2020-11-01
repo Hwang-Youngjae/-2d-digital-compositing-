@@ -78,6 +78,11 @@ https://www.youtube.com/watch?v=5RyU50qbvzQ
 
 ![스페이스_오딧세이](https://user-images.githubusercontent.com/71237760/97808810-56bb4c00-1cac-11eb-8f1c-2b372289cf51.jpg)
 
+## 1977년
+이후 조지루카스 의 스타워즈(1977)이 탄생하게 된다. 역사상 최고의 성공과 영향력을 자랑하는 영화 중 하나이며 CG 영화의 선구 주자격인 영화다. 
+
+![unnamed](https://user-images.githubusercontent.com/71237760/97808872-c7faff00-1cac-11eb-88a3-aade1de5e0b0.jpg)
+
 ## 1982년
 1980 년대에 Triple-I는 7 분간의 CG for Looker (1980)를 계속 제작했으며 ILM은 Star Trek II : The Wrath of Khan (1982)에 대한 최초의 디지털 CG 이미지를 제작했지만 Disney의 Tron (1982)은 3D CG의 첫 번째 광범위한 사용.
 
@@ -91,7 +96,7 @@ Where the Wild Things Are (1982-83)는 선구적인 35mm 필름 테스트로, 3D
 
 
 ## 1984년
-획기적인 프로젝트 인 André와 Wally B.의 모험 이 출시되었다. 이 프로젝트는 모션 블러 효과를 사용한 최초의 전체 CG 애니메이션 단편 이었지만, 영화에서 전체 CG 애니메이션을 사용할 수있는 잠재력을 입증하는 데 도움이되는 기술적 실험이기도했다.
+획기적인 프로젝트인 André와 Wally B.의 모험 이 출시되었다. 이 프로젝트는 모션 블러 효과를 사용한 최초의 전체 CG 애니메이션 단편 이었지만, 영화에서 전체 CG 애니메이션을 사용할 수있는 잠재력을 입증하는 데 도움이되는 기술적 실험이기도했다.
 
 https://www.youtube.com/watch?v=9qha0kEeVl0&feature=emb_err_woyt
 
