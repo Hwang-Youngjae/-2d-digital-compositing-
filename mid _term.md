@@ -44,12 +44,12 @@ George Albert Smith는 장면에 요소를 도입하기 위해 처음으로 이�
 ![Williams-Process-Patent](https://user-images.githubusercontent.com/71237760/97808010-697f5200-1ca7-11eb-9e9c-f50e7eaa6fbb.jpg)
 
 
-1970년대에 앞서 언급 한 ILM의 VFX 마스터는 많은 무광택 페인팅 을 사용 하여 스타 워즈 에 생명 을 불어 넣었다. 
+1970년대에 많은 무광택 페인팅을 사용하여 스타 워즈에 생명을 불어 넣었다. 
 
 ![1](https://user-images.githubusercontent.com/71237760/97807155-8b2a0a80-1ca2-11eb-9026-906fe90b790c.png)
 
 
-#### 디지털 매트페인팅
+
 
 
 
@@ -80,3 +80,5 @@ https://www.youtube.com/watch?v=9qha0kEeVl0&feature=emb_err_woyt
 거의 10 년 후 첫 번째 장편 컴퓨터 애니메이션 영화인 Toy Story (1995)가 우리 화면을 강타하여 CGI가 실제로 애니메이션을 찍기 시작했다.
 
 ![open-uri20150422-20810-m8zzyx_5670999f](https://user-images.githubusercontent.com/71237760/97804525-e99bbc80-1c93-11eb-9cd7-ca07fb38ab74.jpeg)
+
+#### 디지털 매트페인팅
