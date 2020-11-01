@@ -7,7 +7,7 @@ VFX란?
 
 ### 간단히 말하자면 가상의 컴퓨터 그래픽으로 비현실적인 장면을 만들어내어 영상과 합성한 것
 ***
-VFX의 기원
+VFX의 
 ---------
 ![The-Sketchpad-program-developed-by-Ivan-Sutherland-allowed-the-user-to-draw-on-a](https://user-images.githubusercontent.com/71237760/97803269-60cd5280-1c8c-11eb-9eaf-e382ba8d599a.png)
 
