@@ -34,11 +34,13 @@ MIT학생이던 이반 서덜랜드가 스케치패드라는 드로잉 프로그
 이 프로그램을 통해 사용자는 프로그램 기능을 시각화하고 제어 할 수 있으며 현대 기술의 여러 측면에서 사용되는 컴퓨터 그래픽, 컴퓨터 운영체제 인터페이스 및 소프트웨어 응용프로그램의 기반이되었다.
 
 이후 컴퓨터 그래픽 기술이 많이 발전하며 많은 작품들이 탄생했다.
+
 https://www.youtube.com/watch?v=5RyU50qbvzQ
 
 
 ## 1984년
 획기적인 프로젝트 인 André와 Wally B.의 모험 이 출시되었다. 이 프로젝트는 모션 블러 효과를 사용한 최초의 전체 CG 애니메이션 단편 이었지만, 영화에서 전체 CG 애니메이션을 사용할 수있는 잠재력을 입증하는 데 도움이되는 기술적 실험이기도했다.
+
 https://www.youtube.com/watch?v=9qha0kEeVl0&feature=emb_err_woyt
 
 ![The_Adventures_of_André_and_Wally_B _poster](https://user-images.githubusercontent.com/71237760/97804207-b821f180-1c91-11eb-992f-ae0026a17e0e.jpg)
