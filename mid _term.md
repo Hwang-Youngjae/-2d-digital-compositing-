@@ -123,6 +123,7 @@ https://www.youtube.com/watch?v=9qha0kEeVl0&feature=emb_err_woyt
 ## 1991년 
 트론이 만든 CG의 상업성 실패의 인식이 전환은 터미네이터2이다. CG 캐릭터를 실제 배우와 동일 공간에 처음 등징 시키면서 영화에 주도적으로 등장하게 된다. 
 
+![fe43bbfa-b6f1-4674-a20e-9abbc4893751](https://user-images.githubusercontent.com/71237760/97810995-0e575a80-1cbb-11eb-94c6-6f06d97061e7.jpg)
 
 
 ## 1995년
