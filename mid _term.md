@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=5RyU50qbvzQ
 
 
 ## 1984년
-에 획기적인 프로젝트 인 André와 Wally B.의 모험 이 출시되었다. 이 프로젝트는 모션 블러 효과를 사용한 최초의 전체 CG 애니메이션 단편 이었지만, 영화에서 전체 CG 애니메이션을 사용할 수있는 잠재력을 입증하는 데 도움이되는 기술적 실험이기도했다.
+획기적인 프로젝트 인 André와 Wally B.의 모험 이 출시되었다. 이 프로젝트는 모션 블러 효과를 사용한 최초의 전체 CG 애니메이션 단편 이었지만, 영화에서 전체 CG 애니메이션을 사용할 수있는 잠재력을 입증하는 데 도움이되는 기술적 실험이기도했다.
 https://www.youtube.com/watch?v=9qha0kEeVl0&feature=emb_err_woyt
 
 ![The_Adventures_of_André_and_Wally_B _poster](https://user-images.githubusercontent.com/71237760/97804207-b821f180-1c91-11eb-992f-ae0026a17e0e.jpg)
