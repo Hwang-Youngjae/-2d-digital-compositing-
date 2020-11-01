@@ -14,7 +14,7 @@ VFX의 발전
 ### 영화 전의 애니메이션
 
 ## 1832년
-브뤼셀의 Joseph Plateau와 베를린의 Simon von Stampfer에 의해 동시에 발명 된이 장치의 제작에는 불가피한 것이있었습니다.
+18 세기와 19 세기에 걸쳐 산업 혁명이 확산되면서 발명가들은 이미지에 생명을 불어 넣는 데 도움이되는 기계를 실험하기 시작했다. 브뤼셀의 Joseph Plateau와 베를린의 Simon von Stampfer가 처음 개발 한 장치였다. 애니메이션의 가장 초기 사례 중 하나로 널리 알려져 있으며 현대 영화의 선구자인 인기있는 빅토리아 시대의 장난감은 회전하는 디스크가 거울에 반사되어 장치의 슬릿을 통해 볼 때 움직이는 이미지의 환상을 만들어 냈다.
 
 ![480px-Optical_illusion_disc_with_somersaults_and_horseback_riding](https://user-images.githubusercontent.com/71237760/97804983-94ad7580-1c96-11eb-8d87-c82ae61d7b88.gif)
 
@@ -33,7 +33,7 @@ VFX의 발전
 
 ### 컴퓨터의 발전
 
-## 1960년
+## 1962년
 MIT학생이던 이반 서덜랜드가 스케치패드라는 드로잉 프로그램을 개발
 
 ![The-Sketchpad-program-developed-by-Ivan-Sutherland-allowed-the-user-to-draw-on-a](https://user-images.githubusercontent.com/71237760/97803269-60cd5280-1c8c-11eb-9eaf-e382ba8d599a.png)
