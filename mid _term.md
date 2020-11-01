@@ -18,6 +18,8 @@ VFX의 발전
 
 ![480px-Optical_illusion_disc_with_somersaults_and_horseback_riding](https://user-images.githubusercontent.com/71237760/97804983-94ad7580-1c96-11eb-8d87-c82ae61d7b88.gif)
 
+
+### 영화의 새로운 기술 도입
 ## 1898년
 
 
