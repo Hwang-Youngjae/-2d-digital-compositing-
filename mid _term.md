@@ -108,16 +108,10 @@ https://www.youtube.com/watch?v=5RyU50qbvzQ
 ![unnamed](https://user-images.githubusercontent.com/71237760/97808872-c7faff00-1cac-11eb-88a3-aade1de5e0b0.jpg)
 
 ## 1982년
-1980 년대에 Triple-I는 7 분간의 CG for Looker (1980)를 계속 제작했으며 ILM은 Star Trek II : The Wrath of Khan (1982)에 대한 최초의 디지털 CG 이미지를 제작했지만 Disney의 Tron (1982)은 3D CG의 첫 번째 광범위한 사용.
-
-Where the Wild Things Are (1982-83)는 선구적인 35mm 필름 테스트로, 3D CG 배경을 전통적으로 애니메이션 (디지털 잉크 및 페인팅) 된 캐릭터와 디지털 합성했습니다. 이 작업은 Chris Wedge (현재 Blue Sky / VIFX, Joe 's Apartment, Star Trek : Insurrection and Bunny의 부사장)가 이끌었습니다. John Lasseter (Toy Story, A Bug 's Life and Monsters Inc.의 디렉터)는 Disney를 떠나 Lucasfilm 컴퓨터 그래픽 부문에 합류하여 "Return of the Jedi"(1983) (오스카 수상자)의 CG Endor 문 시퀀스 작업을했습니다.
+CG가 본격적으로 사용된 최초의 영화는 디즈니가 제작한 트론이다. 전체 러닝타임 동안 총 15분 가량이 쓰였는데 아쉽게도 흥행에 참패해 CG가 상업성이 없다는 인식을 제작자들 사이에 심어주게 된다.   
 
 
 ![movie_image_(2)](https://user-images.githubusercontent.com/71237760/97808637-6dad6e80-1cab-11eb-900d-13230f921b9d.jpg)
-
-
-
-
 
 ## 1984년
 획기적인 프로젝트인 André와 Wally B.의 모험 이 출시되었다. 이 프로젝트는 모션 블러 효과를 사용한 최초의 전체 CG 애니메이션 단편 이었지만, 영화에서 전체 CG 애니메이션을 사용할 수있는 잠재력을 입증하는 데 도움이되는 기술적 실험이기도했다.
@@ -126,8 +120,13 @@ https://www.youtube.com/watch?v=9qha0kEeVl0&feature=emb_err_woyt
 
 ![The_Adventures_of_André_and_Wally_B _poster](https://user-images.githubusercontent.com/71237760/97804207-b821f180-1c91-11eb-992f-ae0026a17e0e.jpg)
 
+## 1991년 
+트론이 만든 CG의 상업성 실패의 인식이 전환은 터미네이터2이다. CG 캐릭터를 실제 배우와 동일 공간에 처음 등징 시키면서 영화에 주도적으로 등장하게 된다. 
+
+
+
 ## 1995년
-거의 10 년 후 첫 번째 장편 컴퓨터 애니메이션 영화인 Toy Story (1995)가 우리 화면을 강타하여 CGI가 실제로 애니메이션을 찍기 시작했다.
+André와 Wally B.의 모험이 나오고 거의 10 년 후 첫 번째 장편 컴퓨터 애니메이션 영화인 Toy Story (1995)가 우리 화면을 강타하여 CGI가 실제로 애니메이션을 찍기 시작했다.
 
 ![open-uri20150422-20810-m8zzyx_5670999f](https://user-images.githubusercontent.com/71237760/97804525-e99bbc80-1c93-11eb-9cd7-ca07fb38ab74.jpeg)
 
