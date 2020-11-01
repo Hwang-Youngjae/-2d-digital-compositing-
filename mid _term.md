@@ -81,6 +81,21 @@ https://www.youtube.com/watch?v=5RyU50qbvzQ
 
 이후 컴퓨터 그래픽 기술이 많이 발전하며 많은 작품들이 탄생했다.
 
+## 1967년
+세계 최초로 영화에 CG를 사용한 영화 2001 스페이스 오딧세이(1968)가 나왔다. 
+
+## 1982년
+1980 년대에 Triple-I는 7 분간의 CG for Looker (1980)를 계속 제작했으며 ILM은 Star Trek II : The Wrath of Khan (1982)에 대한 최초의 디지털 CG 이미지를 제작했지만 Disney의 Tron (1982)은 3D CG의 첫 번째 광범위한 사용.
+
+Where the Wild Things Are (1982-83)는 선구적인 35mm 필름 테스트로, 3D CG 배경을 전통적으로 애니메이션 (디지털 잉크 및 페인팅) 된 캐릭터와 디지털 합성했습니다. 이 작업은 Chris Wedge (현재 Blue Sky / VIFX, Joe 's Apartment, Star Trek : Insurrection and Bunny의 부사장)가 이끌었습니다. John Lasseter (Toy Story, A Bug 's Life and Monsters Inc.의 디렉터)는 Disney를 떠나 Lucasfilm 컴퓨터 그래픽 부문에 합류하여 "Return of the Jedi"(1983) (오스카 수상자)의 CG Endor 문 시퀀스 작업을했습니다.
+
+
+![movie_image_(2)](https://user-images.githubusercontent.com/71237760/97808637-6dad6e80-1cab-11eb-900d-13230f921b9d.jpg)
+
+
+
+
+
 ## 1984년
 획기적인 프로젝트 인 André와 Wally B.의 모험 이 출시되었다. 이 프로젝트는 모션 블러 효과를 사용한 최초의 전체 CG 애니메이션 단편 이었지만, 영화에서 전체 CG 애니메이션을 사용할 수있는 잠재력을 입증하는 데 도움이되는 기술적 실험이기도했다.
 
