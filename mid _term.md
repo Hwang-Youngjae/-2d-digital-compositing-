@@ -30,6 +30,10 @@ VFX의 발전
 다음으로 내적 심리를 암시하는 표현 수단으로 이중 노출이 쓰이기도 했다. 
 주인공의 사상이나 감정, 상상, 꿈 등을 표현했는데 예를 들어 한 남자가 여자를 보고 있는 장면에 그 여자와 정사를 나누고 있는 장면을 이중 노출시켜 남자의 내적인 심리를 드러내는 식이다. 이런 방식의 이중 노출은 번거롭게 자막으로 주인공의 심리를 설명하지 않아도 되는 장점이 있었다.
 
+![train3](https://user-images.githubusercontent.com/71237760/97811783-19f95000-1cc0-11eb-913f-4da9c6220a96.jpg)
+
+Edison Manufacturing Company 의 Edwin S. Porter가 제작 한1903 년 미국 무성 단편 서양 영화 The Great Train Robbery
+
 #### 1902년
 
 달세계 여행(프랑스어: Le Voyage dans la lune, 영어: A Trip to the Moon)은 쥘 베른의 소설 《지구에서 달까지》를 각색해서 만든, 조르주 멜리에스 감독의 1902년작 흑백 무성 영화이다. 최초의 과학 영화이며, 당대의 혁신적인 특수 효과로 유명하다. 달의 눈에 로켓이 착륙하는 장면은 알려진 스톱 모션 기법으로 만들어진 영상 가운데 최초의 것이다. 조르주 멜리에스 감독은 스톱 모션, 슬로우 모션, 디졸브, 페이드 아웃, 중첩 및 이중 노출과 같은 기본적인 카메라 트릭을 발견하고 활용했다.
@@ -82,6 +86,7 @@ https://www.youtube.com/watch?v=Y0WqgKOZi6M&feature=emb_title
 
 https://www.youtube.com/watch?v=rRoj0hJfosU&feature=emb_title
 
+***
 ## 컴퓨터의 발전
 
 ## 1962년
@@ -143,4 +148,34 @@ André와 Wally B.의 모험이 나오고 거의 10 년 후 첫 번째 장편 �
 이전처럼 사람의 몸에 광학식 센서를 붙이고 움직임을 읽는 방식, 관성을 이용한 방식, 자기장을 이용한 방식 등 이후 많은 모션캡쳐의 기술들이 나왔다. 이제는 아무런 센서도 없이 소프트웨어의 알고리즘을 이용한 마커리스 방식도 사용되고 있다.
 
 https://www.youtube.com/watch?v=FO7pSQFsMfs&feature=emb_title
+***
+
+VFX의 미래
+---------
+
+영화산업 내 VFX/CG 기술이 발달함에 따라 현실에서 는 구현이 불가능했던 장면들을 연출하거나 시대극, 군 중신 등의 제작비용을 절감하는 것이 가능해지면서 장르를 불문하고 광범위하게 사용되고 있다. 또한 예고편 을 통해 영화 관람을 결정하는 관람객들이 늘어나면서 변화하는 소비 형태에 힘입어 영화 자체적으로 또 마케팅적으로도 VFX의 비중이 커지고 있다. 국내 관객들의 경우 할리우드영화 등 높은 CGI 기술력의 콘텐츠를 지속적으로 접하면서 한국영화에서 유사한 또는 그 이상 의 기술력을 기대하게 됐다. 
+
+
+
+출처
+
+https://www.thefocus.com/news/history-of-vfx-imagination-life
+
+https://www.thefocus.com/news/history-of-vfx-digital-age
+
+http://www.spherevfx.com/the-history-of-computer-graphics-and-effects/
+
+https://m.blog.naver.com/PostView.nhn?blogId=cooms_visual&logNo=220450901179&proxyReferer=https:%2F%2Fwww.google.com%2F
+
+
+
+
+
+
+
+
+
+
+
+
 
