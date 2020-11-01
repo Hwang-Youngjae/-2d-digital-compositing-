@@ -60,14 +60,6 @@ https://www.youtube.com/watch?v=Y0WqgKOZi6M&feature=emb_title
 
 ![1](https://user-images.githubusercontent.com/71237760/97807155-8b2a0a80-1ca2-11eb-9026-906fe90b790c.png)
 
-
-
-
-
-
-
-
-
 ## 컴퓨터의 발전
 
 ## 1962년
@@ -83,6 +75,8 @@ https://www.youtube.com/watch?v=5RyU50qbvzQ
 
 ## 1967년
 세계 최초로 영화에 CG를 사용한 영화 2001 스페이스 오딧세이(1968)가 나왔다. 
+
+![스페이스_오딧세이](https://user-images.githubusercontent.com/71237760/97808810-56bb4c00-1cac-11eb-8f1c-2b372289cf51.jpg)
 
 ## 1982년
 1980 년대에 Triple-I는 7 분간의 CG for Looker (1980)를 계속 제작했으며 ILM은 Star Trek II : The Wrath of Khan (1982)에 대한 최초의 디지털 CG 이미지를 제작했지만 Disney의 Tron (1982)은 3D CG의 첫 번째 광범위한 사용.
