@@ -31,14 +31,19 @@ VFX의 발전
 
 ![The-Sketchpad-program-developed-by-Ivan-Sutherland-allowed-the-user-to-draw-on-a](https://user-images.githubusercontent.com/71237760/97803269-60cd5280-1c8c-11eb-9eaf-e382ba8d599a.png)
 
-1960년대 MIT학생이던 이반 서덜랜드가 스케치패드라는 드로잉 프로그램을 개발
+## 1960년
+MIT학생이던 이반 서덜랜드가 스케치패드라는 드로잉 프로그램을 개발
 
 https://www.youtube.com/watch?v=5RyU50qbvzQ
 
 
-1984 년에 획기적인 프로젝트 인 André와 Wally B.의 모험 이 출시되었다. 이 프로젝트는 모션 블러 효과를 사용한 최초의 전체 CG 애니메이션 단편 이었지만, 영화에서 전체 CG 애니메이션을 사용할 수있는 잠재력을 입증하는 데 도움이되는 기술적 실험이기도했다.
+## 1984년
+에 획기적인 프로젝트 인 André와 Wally B.의 모험 이 출시되었다. 이 프로젝트는 모션 블러 효과를 사용한 최초의 전체 CG 애니메이션 단편 이었지만, 영화에서 전체 CG 애니메이션을 사용할 수있는 잠재력을 입증하는 데 도움이되는 기술적 실험이기도했다.
 https://www.youtube.com/watch?v=9qha0kEeVl0&feature=emb_err_woyt
 
 ![The_Adventures_of_André_and_Wally_B _poster](https://user-images.githubusercontent.com/71237760/97804207-b821f180-1c91-11eb-992f-ae0026a17e0e.jpg)
 
+## 1995년
 거의 10 년 후 첫 번째 장편 컴퓨터 애니메이션 영화인 Toy Story (1995)가 우리 화면을 강타하여 CGI가 실제로 애니메이션을 찍기 시작했다.
+
+![open-uri20150422-20810-m8zzyx_5670999f](https://user-images.githubusercontent.com/71237760/97804525-e99bbc80-1c93-11eb-9cd7-ca07fb38ab74.jpeg)
